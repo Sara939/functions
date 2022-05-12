@@ -30,14 +30,7 @@
 
 
 // // question 5:
-var a;
-var b;
 
-function switchVar(a,b){
-    a=b
-    b=a
-}
-console.log(switchVar(5,8)) ;
 
 
 // // question 2:
